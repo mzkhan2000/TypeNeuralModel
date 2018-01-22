@@ -1,0 +1,16 @@
+README.md
+setup.py
+./skge/__init__.py
+./skge/actfun.py
+./skge/base.py
+./skge/hole.py
+./skge/param.py
+./skge/rescal.py
+./skge/sample.py
+./skge/transe.py
+./skge/util.py
+./skge/version.py
+scikit_kge.egg-info/PKG-INFO
+scikit_kge.egg-info/SOURCES.txt
+scikit_kge.egg-info/dependency_links.txt
+scikit_kge.egg-info/top_level.txt

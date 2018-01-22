@@ -1,0 +1,27 @@
+Metadata-Version: 1.1
+Name: scikit-kge
+Version: 0.1
+Summary: Python module to compute Knowledge Graph Embeddings
+Home-page: http://github.com/mnick/scikit-kge
+Author: Maximilian Nickel
+Author-email: mnick@mit.edu
+License: GPLv3
+Download-URL: http://github.com/mnick/scikit-kge
+Description-Content-Type: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Software Development
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
